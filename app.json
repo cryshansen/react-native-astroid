@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Asteroids – The Pink Viper",
+    "slug": "asteroids-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      }
+    }
+  }
+}
